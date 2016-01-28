@@ -1,0 +1,1 @@
+perceptron(data1,class1);

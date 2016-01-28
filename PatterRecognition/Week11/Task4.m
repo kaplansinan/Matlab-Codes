@@ -1,0 +1,1 @@
+[centers,U] = fcm(traindata,2);

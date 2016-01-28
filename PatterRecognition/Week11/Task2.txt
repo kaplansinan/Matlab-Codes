@@ -1,0 +1,4 @@
+http://www.researchgate.net/post/Does_normalization_of_data_always_improve_the_clustering_results
+http://stackoverflow.com/questions/15777201/why-vector-normalization-can-improve-the-accuracy-of-clustering-and-classificati
+https://www.quora.com/When-is-it-not-a-good-idea-to-normalize-your-data-before-analysis
+http://d396qusza40orc.cloudfront.net/ml/recoded_videos%2F04.3-LinearRegressionWithMultipleVariables-GradientDescentInPracticeIFeatureScaling%20%5Bca6f4929%5D%20.mp4
